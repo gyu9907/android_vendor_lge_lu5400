@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/lu5400/proprietary/vendor/firmware/fw_bcmdhd.bin:system/vendor/firmware/fw_bcmdhd.bin \
     vendor/lge/lu5400/proprietary/vendor/firmware/fw_bcmdhd_apsta.bin:system/vendor/firmware/fw_bcmdhd_apsta.bin \
     vendor/lge/lu5400/proprietary/vendor/firmware/fw_bcmdhd_p2p.bin:system/vendor/firmware/fw_bcmdhd_p2p.bin \
-    vendor/lge/lu5400/proprietary/lib/hw/camera.omap4.so:system/lib/hw/camera.omap4.so \
     vendor/lge/lu5400/proprietary/bin/glgps:system/bin/glgps \
     vendor/lge/lu5400/proprietary/lib/hw/gps.omap4.so:system/lib/hw/gps.omap4.so \
     vendor/lge/lu5400/proprietary/lib/libini.so:system/lib/libini.so \
