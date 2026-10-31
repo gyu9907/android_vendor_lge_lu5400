@@ -19,16 +19,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/lu5400/proprietary/lib/libmpl.so:system/lib/libmpl.so \
     vendor/lge/lu5400/proprietary/lib/libmllite.so:system/lib/libmllite.so \
     vendor/lge/lu5400/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
-    vendor/lge/lu5400/proprietary/bin/rild:system/bin/rild \
-    vendor/lge/lu5400/proprietary/lib/lge-ril.so:system/lib/lge-ril.so \
-    vendor/lge/lu5400/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/lu5400/proprietary/vendor/firmware/fw_bcmdhd.bin:system/vendor/firmware/fw_bcmdhd.bin \
     vendor/lge/lu5400/proprietary/vendor/firmware/fw_bcmdhd_apsta.bin:system/vendor/firmware/fw_bcmdhd_apsta.bin \
     vendor/lge/lu5400/proprietary/vendor/firmware/fw_bcmdhd_p2p.bin:system/vendor/firmware/fw_bcmdhd_p2p.bin \
-    vendor/lge/lu5400/proprietary/bin/glgps:system/bin/glgps \
-    vendor/lge/lu5400/proprietary/lib/hw/gps.omap4.so:system/lib/hw/gps.omap4.so \
-    vendor/lge/lu5400/proprietary/lib/libini.so:system/lib/libini.so \
-    vendor/lge/lu5400/proprietary/etc/cert/lge.cer:system/etc/cert/lge.cer \
     vendor/lge/lu5400/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/lge/lu5400/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/lge/lu5400/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
@@ -42,7 +35,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/lu5400/proprietary/vendor/bin/pvrsrvinit_SGX540_120:system/vendor/bin/pvrsrvinit_SGX540_120 \
     vendor/lge/lu5400/proprietary/vendor/bin/pvrsrvinit:system/vendor/bin/pvrsrvinit \
     vendor/lge/lu5400/proprietary/vendor/lib/hw/gralloc.omap4.so:system/vendor/lib/hw/gralloc.omap4.so \
-    vendor/lge/lu5400/proprietary/lib/libhdcp.so:system/lib/libhdcp.so \
     vendor/lge/lu5400/proprietary/lib/liblgehdmi.so:system/lib/liblgehdmi.so \
     vendor/lge/lu5400/proprietary/vendor/lib/libbltsville_cpu.so:system/vendor/lib/libbltsville_cpu.so \
     vendor/lge/lu5400/proprietary/vendor/lib/libbltsville_ticpu.2.0.0.10.so:system/vendor/lib/libbltsville_ticpu.2.0.0.10.so \
